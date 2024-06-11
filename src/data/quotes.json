@@ -1,0 +1,34 @@
+{
+  "qoutes": [
+    {
+      "id": "Q2",
+      "text": "There's not a day that's gone by where I haven't thought about you. Running into you again feels like a missing piece of my life has finally clicked back into place.",
+      "image": "/images/image-03.webp"
+    },
+    {
+      "id": "Q3",
+      "text": "You make me smile so easily. Can you be there, to do it forever?",
+      "image": "/images/image-02.webp"
+    },
+    {
+      "id": "Q4",
+      "text": "I've missed you more than I ever thought possible.",
+      "image": "/images/image-01.webp"
+    },
+    {
+      "id": "Q5",
+      "text": "Your absence is stronger to me than the presence of thousands of other people",
+      "image": "/images/image-07.webp"
+    },
+    {
+      "id": "Q6",
+      "text": "Seeing you again after all this time feels like stepping back into a dream. I can't believe it's been five years. I've missed you more than words can say.",
+      "image": "/images/image-06.webp"
+    }
+  ],
+  "propose": {
+    "id": "finished",
+    "text": "Life took us down different paths for a while, but reconnecting with you feels like coming home. I really hope we can stay in touch and get to know each other again",
+    "image": "/images/image-04.webp"
+  }
+}
